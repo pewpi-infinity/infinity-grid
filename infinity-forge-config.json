@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-grid",
+  "title": "Infinity Grid",
+  "emoji": "\ud83d\udcd0",
+  "purpose": "Defines how repos connect spatially. Lattice-state programming makes repos a quantum-traveling network.",
+  "tools": [
+    "Grid Map",
+    "Lattice Builder",
+    "Connection Paths",
+    "Node Inspector"
+  ],
+  "color": "#4caf50",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
